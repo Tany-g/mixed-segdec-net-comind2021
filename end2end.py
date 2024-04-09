@@ -22,7 +22,7 @@ LVL_DEBUG = 1
 LOG = 1  # Will log all mesages with lvl greater than this
 SAVE_LOG = True
 
-WRITE_TENSORBOARD = False
+WRITE_TENSORBOARD = True
 
 
 class End2End:
